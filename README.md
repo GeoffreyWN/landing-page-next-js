@@ -15,10 +15,10 @@ browser to see the result.
 
 Enjoy :-)
 
-![alt text](https://github.com/GeoffreyWN/landing-page-next-js/blob/main/public/nextjs-landing-1?raw=true)
+![alt text](https://github.com/GeoffreyWN/landing-page-next-js/blob/main/public/nextjs-landing-1.png?raw=true)
 
-![alt text](https://github.com/GeoffreyWN/landing-page-next-js/blob/main/public/nextjs-landing-2?raw=true)
+![alt text](https://github.com/GeoffreyWN/landing-page-next-js/blob/main/public/nextjs-landing-2.png?raw=true)
 
-![alt text](https://github.com/GeoffreyWN/landing-page-next-js/blob/main/public/nextjs-landing-3?raw=true)
+![alt text](https://github.com/GeoffreyWN/landing-page-next-js/blob/main/public/nextjs-landing-3.png?raw=true)
 
-![alt text](https://github.com/GeoffreyWN/landing-page-next-js/blob/main/public/nextjs-landing-4?raw=true)
+![alt text](https://github.com/GeoffreyWN/landing-page-next-js/blob/main/public/nextjs-landing-4.png?raw=true)
