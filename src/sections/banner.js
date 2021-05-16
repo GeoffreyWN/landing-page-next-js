@@ -15,7 +15,7 @@ export default function Banner() {
             </Heading>
 
           <Text as='p' variant='heroSecondary'>
-            Welcome! Let's work on your next awesome project! We are the best in the game. Our work tell it all.
+            Welcome! Let's work on your next awesome project! We are the best in the game. Our work tells it all.
             </Text>
           <Button variant="primary"> Engage Us </Button>
         </Box>
